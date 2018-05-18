@@ -1,7 +1,7 @@
 {
   "manifestVersion": 1,
   "id": "vsts-yaml-writer",
-  "publisher": "jakkaj",
+  "publisher": "jakkaj@outlook.com",
   "name": "Yaml Writer",
   "version": "0.18.1",
   "description": "Feed in parameters to write out yaml to new or existing files",
@@ -18,7 +18,7 @@
     "Yaml"
   ],
   "icons": {
-    "default": "YamlWriter/extension-icon.png"
+    "default": "icon.png"
   },
   "public": true,
   "targets": [
