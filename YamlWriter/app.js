@@ -8,7 +8,7 @@ var fs = require('fs');
     //var echo = new tl.ToolRunner(tl.which('echo', true));
     var file = tl.getInput('file', true);
     var set = tl.getInput('set', true);
-    var dry = tl.getInput('dry', false);
+    var dry = tl.getInput('dry', false) == 'true';
 
     console.log(`File: ${file} (exists: ${fs.existsSync(file)})`);
     console.log(`Settings: ${set}`);
