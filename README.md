@@ -1,7 +1,11 @@
 # yamlw_vststask
 A VSTS task for yamlw
 
-See the [yamlw GitHub repo](https://github.com/jakkaj/yamlw) for more info.
+[Extension on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=jakkaj.vsts-yaml-writer). 
+
+[YouTube video](https://www.youtube.com/watch?v=MavBLz8Gmvc&feature=youtu.be) demonstration.
+
+See the [yamlw GitHub repo](https://github.com/jakkaj/yamlw) for more info on the yamlw NPS. 
 
 This extension allows you to easily create or update yaml files during build and release. 
 
