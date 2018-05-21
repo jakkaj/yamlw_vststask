@@ -4,6 +4,10 @@ Take build arguments and other interesting things and write them to structured y
 
 Pass in arguments as name/value pairs separated by a comma. 
 
+[YouTube video](https://www.youtube.com/watch?v=MavBLz8Gmvc&feature=youtu.be) demonstration.
+
+See the [yamlw GitHub repo](https://github.com/jakkaj/yamlw) for more info on the yamlw NPM package. 
+
 Given this file:
 
 ```

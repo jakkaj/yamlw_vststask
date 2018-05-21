@@ -3,7 +3,7 @@
   "id": "vsts-yaml-writer",
   "publisher": "jakkaj",
   "name": "Yaml Writer",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "description": "Feed in parameters to write out yaml to new or existing files",
   "tags": [
     "Extension",

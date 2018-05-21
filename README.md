@@ -5,7 +5,7 @@ A VSTS task for yamlw
 
 [YouTube video](https://www.youtube.com/watch?v=MavBLz8Gmvc&feature=youtu.be) demonstration.
 
-See the [yamlw GitHub repo](https://github.com/jakkaj/yamlw) for more info on the yamlw NPS. 
+See the [yamlw GitHub repo](https://github.com/jakkaj/yamlw) for more info on the yamlw NPM package. 
 
 This extension allows you to easily create or update yaml files during build and release. 
 
