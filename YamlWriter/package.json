@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "vso-task-lib": "^0.5.5",
-    "yamlw": "^1.0.9"
+    "yamlw": "^1.0.10"
   }
 }

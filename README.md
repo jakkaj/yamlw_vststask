@@ -65,3 +65,13 @@ You'll need a [VSTS Personal Access Token](https://docs.microsoft.com/en-us/vsts
 Deploy to vsts with `tfx build tasks upload` (pass in ./YamlWriter or . if in that dir already)
 
 
+## Publishing
+
+Edit the version in `vss-extension.json`.
+
+```
+tfx extension create
+```
+
+
+

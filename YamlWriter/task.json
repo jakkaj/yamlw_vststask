@@ -13,7 +13,7 @@
   "demands": [],
   "version": {
     "Major": "0",
-    "Minor": "20",
+    "Minor": "21",
     "Patch": "2"
   },
   "minimumAgentVersion": "1.95.0",
@@ -42,6 +42,14 @@
       "defaultValue": "false",
       "required": false,
       "helpMarkDown": "Only output the result, do not save the file."
+    },
+    {
+      "name": "json",
+      "type": "boolean",
+      "label": "Save as JSON",
+      "defaultValue": "false",
+      "required": false,
+      "helpMarkDown": "Save the result output as JSON instead of YAML."
     }
   ],
   "execution": {
